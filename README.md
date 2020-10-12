@@ -5,7 +5,7 @@ Converts a png image to mlog commands. Uses a lightweiht vectorization method i 
 When you first open it your ocmputer will probably warn you it may not be safe to run. It is, and there should be an option to run anyway/
 The warning is because i don't have the money to become a verified publisher, however i assure you it is safe.
 
-Once you a file prompt will open, this is where you choose your image, select the one you want just like any other file prompt
+Once you run it, a file prompt will open, this is where you choose your image, select the one you want just like any other file prompt
 
 Next it will prompt you with a series of questions, one at a time.
 ```vanilla small screen is 80x80
